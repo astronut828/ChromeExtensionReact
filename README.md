@@ -14,14 +14,14 @@ Follow these steps to set up and run the extension in your local environment.
 git clone <repo-url>
 cd <your-project-folder>
 ```
-### 2.Iinstall Depedencies
+### 2. Install Depedencies
 
 ```bash
 npm i
 npm run build
 ```
 
-### Load Extension in Chrome
+### 3. Load Extension in Chrome
 ```
 Now let's load your extension into Chrome:
 
